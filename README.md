@@ -1,4 +1,4 @@
 # Flight-booking-website
 builded for booking flight tickets.
 
-discord.gg/serendia - for any questions
+menansali@gmail.com for any questions.
